@@ -5,7 +5,7 @@ WORKDIR /src/notebooks
 
 # Install python modules
 RUN pip3 -q install pip --upgrade
-RUN pip3 install jupyterlab pandas numpy scipy sympy matplotlib seaborn ipywidgets scikit-learn
+RUN pip3 install jupyterlab pandas numpy scipy sympy matplotlib seaborn ipywidgets scikit-learn pymoo ortools
 
 # Install Tini
 ENV TINI_VERSION v0.6.0
