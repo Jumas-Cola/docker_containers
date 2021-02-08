@@ -1,0 +1,16 @@
+version: '3.1'
+
+services:
+    jupyter:
+        build: ./
+        restart: always
+        environment:
+            - JUPYTER_ENABLE_LAB="yes"
+            - GRANT_SUDO="yes"
+            - PASSWORD=ch3ch2oh
+            - JUPYTER_TOKEN=ch3ch2oh
+        ports:
+            - 8888:8888
+        volumes:
+            - /home/${USER}/notebooks:/src/notebooks
+        user: root
