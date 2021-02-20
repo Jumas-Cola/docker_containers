@@ -1,0 +1,1001 @@
+gender,ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,literature_score,rus_score,have_no_problem
+female,B,bachelor's degree,1,0,4,4,4,1
+female,C,some college,1,1,4,5,5,1
+female,B,master's degree,1,0,5,5,5,1
+male,A,associate's degree,0,0,3,3,3,0
+male,C,some college,1,0,4,4,4,1
+female,B,associate's degree,1,0,4,5,4,1
+female,B,some college,1,1,5,5,5,1
+male,B,some college,0,0,2,3,2,0
+male,D,high school,0,1,4,4,4,1
+female,B,high school,0,0,2,3,3,0
+male,C,associate's degree,1,0,3,3,3,0
+male,D,associate's degree,1,0,2,3,3,0
+female,B,high school,1,0,4,5,4,1
+male,A,some college,1,1,4,4,4,1
+female,A,master's degree,1,0,3,3,3,0
+female,C,some high school,1,0,4,4,4,1
+male,C,high school,1,0,5,5,5,1
+female,B,some high school,0,0,1,2,2,0
+male,C,master's degree,0,1,3,3,3,0
+female,C,associate's degree,0,0,3,3,4,1
+male,D,high school,1,0,4,4,4,1
+female,B,some college,0,1,4,4,4,1
+male,D,some college,1,0,3,3,3,0
+female,C,some high school,1,0,4,4,4,1
+male,D,bachelor's degree,0,1,4,4,4,1
+male,A,master's degree,0,0,4,4,4,1
+male,B,some college,1,0,4,3,3,1
+female,C,bachelor's degree,1,0,4,4,4,1
+male,C,high school,1,0,4,4,4,1
+female,D,master's degree,1,0,4,4,4,1
+female,D,some college,1,0,4,4,4,1
+female,B,some college,1,0,4,4,4,1
+female,E,master's degree,0,0,3,4,4,1
+male,D,some college,1,0,2,3,2,0
+male,E,some college,1,0,5,5,5,1
+male,E,associate's degree,1,1,5,5,4,1
+female,D,associate's degree,1,0,4,5,5,1
+female,D,some high school,0,0,3,4,3,1
+female,D,associate's degree,0,1,4,5,5,1
+male,B,associate's degree,0,0,3,3,3,0
+male,C,associate's degree,0,0,3,4,3,1
+female,C,associate's degree,1,0,3,4,4,1
+female,B,associate's degree,1,0,3,3,4,1
+male,B,some college,0,1,3,4,4,1
+female,E,associate's degree,0,0,3,3,3,0
+male,B,associate's degree,1,0,4,3,3,1
+female,A,associate's degree,1,1,3,4,4,1
+female,C,high school,1,0,4,4,4,1
+female,D,associate's degree,0,1,3,4,4,1
+male,C,high school,1,1,5,5,5,1
+male,E,some college,1,0,3,3,3,0
+male,E,associate's degree,0,1,4,4,4,1
+male,C,some college,1,0,3,3,3,0
+male,D,high school,1,0,5,4,4,1
+female,C,some high school,0,1,4,5,5,1
+female,C,high school,0,0,2,3,3,0
+female,E,associate's degree,1,1,5,5,5,1
+male,D,associate's degree,1,0,3,3,3,0
+male,D,some college,1,1,3,3,3,0
+female,C,some high school,0,0,0,1,1,0
+male,E,bachelor's degree,0,1,4,4,4,1
+male,A,some high school,0,0,2,2,2,0
+male,A,associate's degree,0,0,4,4,3,1
+female,C,associate's degree,1,0,4,4,4,1
+female,D,some high school,1,0,3,3,3,0
+male,B,some high school,1,0,4,4,4,1
+male,D,some high school,0,0,3,2,2,0
+female,C,some college,1,0,3,4,4,1
+male,B,associate's degree,0,0,4,3,3,1
+female,C,associate's degree,1,0,2,4,3,0
+female,D,some college,0,1,3,4,4,1
+male,D,some college,1,1,4,3,4,1
+female,A,associate's degree,0,0,3,3,3,0
+male,C,some high school,0,0,4,3,3,1
+male,C,some high school,1,0,3,3,3,0
+male,B,associate's degree,0,0,3,3,2,0
+male,E,some high school,1,0,2,2,2,0
+male,A,bachelor's degree,1,1,4,4,5,1
+female,D,some high school,1,1,4,4,4,1
+female,E,master's degree,1,0,4,4,4,1
+female,B,associate's degree,1,0,3,3,3,0
+male,B,high school,0,0,3,3,3,0
+male,A,some college,0,1,3,3,3,0
+male,E,associate's degree,1,0,4,4,4,1
+male,D,high school,0,0,3,2,2,0
+female,C,some college,1,0,4,4,5,1
+female,C,some college,0,0,4,5,5,1
+female,D,associate's degree,1,0,4,4,4,1
+female,A,some college,1,0,3,4,4,1
+female,D,some high school,1,0,4,5,5,1
+female,C,bachelor's degree,1,0,4,4,4,1
+male,C,high school,0,0,2,2,2,0
+male,C,high school,1,0,4,4,4,1
+male,C,associate's degree,0,1,3,3,3,0
+female,B,some college,1,0,4,5,5,1
+male,C,associate's degree,0,1,4,5,5,1
+male,B,some high school,1,1,4,4,4,1
+female,E,some college,1,1,4,4,4,1
+female,D,some college,0,0,3,4,4,1
+female,D,bachelor's degree,1,0,4,4,4,1
+male,B,some college,1,0,4,4,4,1
+male,D,bachelor's degree,1,1,4,4,4,1
+female,D,associate's degree,1,0,5,5,5,1
+male,B,high school,1,1,3,3,3,0
+male,C,some college,1,1,5,5,5,1
+female,C,some college,1,0,3,4,4,1
+female,D,master's degree,1,0,5,5,5,1
+male,E,associate's degree,1,1,4,4,4,1
+female,B,associate's degree,0,0,3,4,4,1
+female,B,some high school,1,0,4,4,4,1
+female,D,associate's degree,0,1,4,5,5,1
+male,C,high school,1,0,4,3,3,1
+male,A,associate's degree,1,0,3,3,3,0
+female,D,some college,1,0,3,3,3,0
+female,E,bachelor's degree,1,1,5,5,5,1
+male,C,high school,1,0,5,4,4,1
+female,B,bachelor's degree,0,0,4,5,5,1
+female,D,bachelor's degree,1,0,4,5,4,1
+female,D,some high school,1,0,3,4,4,1
+female,C,some college,1,0,3,4,4,1
+female,C,bachelor's degree,1,1,4,5,5,1
+male,B,associate's degree,1,1,5,5,5,1
+female,C,some college,1,1,5,5,5,1
+male,D,high school,0,0,4,3,3,1
+male,E,some college,1,0,5,4,4,1
+female,B,high school,1,0,5,5,5,1
+male,B,some high school,1,0,4,4,4,1
+male,D,some college,1,1,4,4,4,1
+male,D,master's degree,1,0,5,5,4,1
+female,A,bachelor's degree,1,0,3,3,3,0
+male,D,master's degree,1,0,5,5,5,1
+male,C,some high school,0,1,3,2,2,0
+male,E,some college,0,1,5,4,4,1
+female,C,some college,1,1,4,5,5,1
+male,D,bachelor's degree,0,1,4,4,4,1
+male,C,bachelor's degree,1,0,3,3,3,0
+male,B,some high school,1,1,3,3,3,0
+male,E,high school,1,0,4,3,3,1
+female,C,associate's degree,1,0,3,4,4,1
+male,D,some college,1,1,4,4,4,1
+female,D,some high school,1,0,4,4,4,1
+female,C,some college,0,0,3,4,4,1
+female,E,some college,0,1,3,3,3,0
+male,A,high school,1,0,3,3,3,0
+male,D,some college,1,0,5,4,4,1
+female,C,some college,0,0,2,2,2,0
+male,B,some high school,1,0,5,5,4,1
+male,C,associate's degree,0,0,4,4,4,1
+female,D,bachelor's degree,1,1,4,4,5,1
+male,E,associate's degree,0,1,5,5,5,1
+male,A,some high school,1,1,4,4,4,1
+male,A,bachelor's degree,1,0,4,4,4,1
+female,B,associate's degree,1,1,3,4,4,1
+male,D,bachelor's degree,1,0,3,3,3,0
+male,D,some high school,1,0,4,4,4,1
+female,C,some college,1,1,4,5,5,1
+female,E,high school,0,1,4,4,4,1
+male,B,some college,0,0,3,3,3,0
+female,B,associate's degree,1,1,4,5,5,1
+male,D,associate's degree,0,0,4,4,4,1
+male,B,associate's degree,0,1,5,4,4,1
+female,E,some college,0,1,4,5,5,1
+male,B,master's degree,0,0,3,3,3,0
+male,C,high school,1,0,3,3,3,0
+female,E,master's degree,1,0,5,5,5,1
+female,C,bachelor's degree,1,1,5,5,5,1
+male,C,high school,0,1,3,3,3,0
+female,B,master's degree,0,1,3,4,4,1
+female,B,high school,1,1,4,5,4,1
+female,C,some college,0,1,4,4,4,1
+male,A,high school,1,1,4,4,4,1
+male,E,some high school,1,0,5,5,4,1
+female,D,some college,1,0,4,5,5,1
+female,C,associate's degree,1,0,4,4,4,1
+female,C,bachelor's degree,0,1,3,3,3,0
+female,C,master's degree,1,1,5,5,5,1
+female,B,high school,0,1,3,3,3,0
+female,C,associate's degree,1,1,4,4,4,1
+female,B,master's degree,0,1,3,4,4,1
+female,D,some high school,1,1,5,5,5,1
+male,C,master's degree,0,1,4,4,4,1
+female,C,some college,0,0,3,4,4,1
+female,E,high school,1,0,3,3,3,0
+female,D,associate's degree,1,0,4,4,4,1
+male,C,some high school,0,1,3,3,3,0
+male,C,associate's degree,0,1,4,4,4,1
+male,E,high school,1,0,4,4,4,1
+male,D,some high school,1,1,4,4,4,1
+male,B,some high school,0,0,3,3,3,0
+female,C,bachelor's degree,1,0,4,5,5,1
+female,E,associate's degree,1,0,4,4,4,1
+male,D,some college,1,1,4,5,4,1
+female,B,some high school,1,0,4,4,4,1
+male,D,some college,1,1,4,4,4,1
+female,C,master's degree,1,1,4,5,5,1
+male,D,associate's degree,1,0,4,3,3,1
+male,C,some high school,0,1,3,4,4,1
+male,E,high school,0,0,3,3,3,0
+female,B,some college,0,0,3,3,3,0
+female,B,bachelor's degree,0,0,4,4,4,1
+female,C,associate's degree,1,1,4,5,5,1
+female,D,some college,0,0,4,5,4,1
+male,C,associate's degree,1,0,4,4,4,1
+female,B,associate's degree,1,0,3,4,4,1
+male,C,some college,1,0,3,3,3,0
+male,D,some high school,1,1,4,4,4,1
+male,E,bachelor's degree,1,0,5,4,4,1
+male,E,high school,1,1,5,4,4,1
+female,B,some college,0,0,4,5,4,1
+female,B,some college,0,0,3,4,4,1
+male,D,some high school,0,1,4,4,4,1
+male,C,some college,0,0,2,2,2,0
+female,C,high school,0,0,3,4,3,1
+male,C,associate's degree,0,1,3,3,3,0
+male,E,high school,1,1,5,5,5,1
+male,B,some high school,1,1,5,5,4,1
+female,E,associate's degree,0,1,5,5,5,1
+female,C,high school,0,0,2,3,2,0
+male,B,high school,0,0,4,4,4,1
+male,B,some high school,1,1,4,3,3,1
+female,D,high school,1,1,3,4,4,1
+male,B,associate's degree,1,0,5,5,4,1
+female,C,some high school,0,0,3,4,4,1
+male,D,some high school,1,0,5,4,4,1
+female,B,associate's degree,1,1,3,4,4,1
+female,E,master's degree,0,0,3,3,3,0
+female,C,some college,1,0,4,4,4,1
+male,D,high school,1,0,3,3,3,0
+male,A,some high school,0,0,4,4,4,1
+female,C,some college,1,1,5,5,5,1
+male,D,some college,1,0,4,4,4,1
+male,C,associate's degree,1,0,3,3,3,0
+female,B,bachelor's degree,1,0,4,5,5,1
+male,E,some high school,1,0,5,5,4,1
+male,C,bachelor's degree,1,1,5,5,5,1
+male,D,associate's degree,1,0,4,4,4,1
+male,D,bachelor's degree,0,0,4,4,4,1
+female,D,some high school,1,1,4,3,4,1
+male,B,some college,1,0,3,3,3,0
+male,C,associate's degree,1,0,5,4,4,1
+male,D,high school,0,1,4,4,4,1
+female,E,bachelor's degree,1,0,4,5,5,1
+female,D,high school,1,0,3,3,3,0
+male,E,some college,1,0,3,3,3,0
+male,D,some high school,1,0,4,4,4,1
+male,C,associate's degree,1,0,5,4,4,1
+male,E,associate's degree,1,0,5,4,4,1
+female,B,high school,1,1,3,4,4,1
+female,B,high school,1,0,4,4,4,1
+male,C,high school,1,0,4,3,3,1
+male,A,some high school,1,1,3,3,3,0
+female,D,some college,0,0,4,5,5,1
+female,B,some high school,1,1,3,4,4,1
+male,D,master's degree,1,0,4,4,4,1
+male,D,high school,1,0,3,3,3,0
+female,E,some college,1,0,4,4,4,1
+female,C,associate's degree,0,0,4,4,4,1
+male,C,associate's degree,1,1,4,4,4,1
+female,B,some college,1,0,4,4,4,1
+female,C,master's degree,0,1,4,5,5,1
+female,C,some high school,0,1,4,4,4,1
+male,C,some college,1,1,4,4,4,1
+female,C,some high school,0,0,3,3,3,0
+female,E,high school,1,0,5,5,5,1
+male,D,high school,1,0,4,4,4,1
+male,D,some high school,0,0,3,3,3,0
+female,C,bachelor's degree,1,0,4,4,5,1
+female,D,high school,1,0,4,4,4,1
+female,D,associate's degree,1,1,5,5,5,1
+female,E,some college,0,0,4,4,4,1
+male,C,bachelor's degree,1,0,4,4,4,1
+male,C,some college,1,0,3,3,3,0
+female,D,associate's degree,0,0,3,3,3,0
+female,D,some college,1,0,4,4,4,1
+male,B,some college,1,1,5,5,4,1
+male,C,bachelor's degree,1,0,5,4,4,1
+female,C,some high school,1,1,5,5,5,1
+female,E,high school,1,1,3,4,4,1
+female,C,some high school,0,0,4,5,4,1
+male,B,bachelor's degree,0,0,4,3,3,1
+male,D,high school,1,0,3,3,3,0
+male,D,high school,1,0,3,3,3,0
+female,D,bachelor's degree,0,0,4,4,5,1
+female,D,some college,0,1,4,4,4,1
+female,B,some high school,1,0,2,3,3,0
+male,B,associate's degree,1,1,5,5,5,1
+male,E,associate's degree,1,1,5,5,5,1
+female,B,some high school,1,0,4,5,5,1
+male,B,bachelor's degree,0,0,5,4,4,1
+male,E,some high school,1,1,4,4,4,1
+male,C,associate's degree,1,0,4,4,4,1
+male,D,some high school,1,0,5,4,4,1
+male,C,some high school,1,1,4,3,3,1
+female,E,bachelor's degree,1,0,4,4,4,1
+male,D,high school,0,1,4,4,4,1
+male,B,associate's degree,0,0,4,4,3,1
+male,A,some high school,1,1,3,3,3,0
+male,E,associate's degree,1,1,4,4,4,1
+male,C,high school,0,1,2,3,3,0
+male,D,associate's degree,0,0,5,5,4,1
+male,A,some college,0,1,5,4,5,1
+male,D,some high school,0,0,3,3,3,0
+female,C,associate's degree,1,1,4,5,5,1
+male,B,associate's degree,1,0,4,4,4,1
+female,C,associate's degree,1,1,4,4,5,1
+male,A,some college,1,0,4,4,4,1
+male,E,some college,1,1,5,5,5,1
+male,C,some high school,1,0,3,3,3,0
+female,B,associate's degree,0,0,3,4,4,1
+female,D,high school,0,0,3,3,3,0
+female,B,associate's degree,1,0,4,4,4,1
+male,B,bachelor's degree,1,0,4,3,3,1
+male,D,bachelor's degree,1,1,4,4,4,1
+female,C,associate's degree,0,1,4,4,4,1
+female,C,bachelor's degree,1,1,3,4,4,1
+male,C,high school,1,0,4,4,4,1
+female,D,master's degree,1,1,4,5,5,1
+male,C,associate's degree,1,0,5,4,4,1
+male,B,bachelor's degree,1,0,4,4,4,1
+female,D,associate's degree,0,0,3,4,4,1
+female,C,high school,0,1,4,4,5,1
+female,E,high school,1,0,4,5,4,1
+female,C,some college,1,0,4,5,4,1
+female,C,some high school,0,0,3,3,3,0
+female,C,high school,0,0,3,3,3,0
+female,C,some college,1,0,5,5,5,1
+male,C,some college,1,0,4,4,4,1
+male,A,some college,0,0,2,2,1,0
+male,C,associate's degree,1,1,5,4,4,1
+female,B,some high school,1,0,3,3,3,0
+male,C,high school,1,0,4,3,4,1
+male,C,associate's degree,1,0,3,2,2,0
+male,E,associate's degree,1,1,4,3,3,1
+male,B,associate's degree,1,0,5,4,5,1
+female,C,bachelor's degree,1,0,5,5,5,1
+female,B,some college,0,0,4,4,4,1
+male,D,some high school,1,1,4,4,4,1
+male,C,associate's degree,1,0,3,3,3,0
+female,B,some high school,0,0,2,2,2,0
+female,D,some high school,0,1,2,3,3,0
+male,C,high school,0,0,3,4,3,1
+female,C,high school,1,0,4,4,4,1
+female,B,high school,1,1,4,4,4,1
+male,D,associate's degree,1,1,4,4,4,1
+male,D,some college,1,0,4,4,4,1
+female,C,high school,1,0,4,4,4,1
+male,B,some college,1,0,4,4,3,1
+female,C,bachelor's degree,1,1,4,5,5,1
+male,D,high school,0,0,4,4,4,1
+male,E,associate's degree,1,0,5,4,4,1
+female,B,bachelor's degree,1,0,3,4,4,1
+male,E,some college,1,0,4,3,3,1
+female,C,some college,1,1,4,4,4,1
+female,C,associate's degree,1,0,3,3,3,0
+female,C,some college,1,0,3,4,4,1
+female,B,bachelor's degree,1,0,4,4,4,1
+male,A,associate's degree,1,0,4,4,4,1
+female,C,some college,0,1,3,4,4,1
+male,D,some college,0,0,3,4,4,1
+female,D,some college,1,0,4,5,5,1
+female,B,high school,1,0,3,4,3,1
+male,B,some high school,1,1,5,5,4,1
+female,C,some college,1,0,3,3,3,0
+female,D,some high school,0,0,2,2,2,0
+male,C,some college,1,0,3,3,3,0
+male,A,bachelor's degree,0,1,3,3,3,0
+male,C,high school,1,1,4,3,3,1
+male,C,bachelor's degree,0,0,4,4,4,1
+female,A,some high school,0,0,3,4,3,1
+female,D,some high school,1,0,4,5,5,1
+male,E,some college,1,0,5,4,4,1
+female,C,some college,0,1,3,4,4,1
+male,D,some high school,1,0,4,4,4,1
+female,D,some college,1,1,5,5,5,1
+female,D,bachelor's degree,1,0,3,4,4,1
+male,E,associate's degree,0,0,3,3,3,0
+female,D,some high school,1,0,4,5,5,1
+female,D,master's degree,0,1,5,5,5,1
+female,A,some high school,1,0,4,5,4,1
+male,A,bachelor's degree,1,0,4,4,4,1
+female,B,associate's degree,1,0,4,5,5,1
+male,C,associate's degree,1,1,5,5,5,1
+male,C,master's degree,0,0,4,5,4,1
+female,E,some high school,0,0,2,3,3,0
+female,A,some high school,0,0,2,3,3,0
+female,E,some college,1,0,4,4,4,1
+female,E,bachelor's degree,1,0,4,4,4,1
+female,C,associate's degree,0,0,3,4,4,1
+female,D,high school,1,0,4,4,4,1
+male,D,master's degree,1,0,4,4,4,1
+male,E,some high school,0,1,4,4,3,1
+female,D,some college,1,0,4,4,4,1
+male,E,some college,1,0,4,4,4,1
+male,C,associate's degree,1,1,3,3,3,0
+female,C,some high school,1,1,4,4,4,1
+male,A,high school,0,0,3,3,3,0
+female,B,high school,0,0,3,4,4,1
+female,C,associate's degree,1,0,5,5,5,1
+male,B,some high school,1,0,4,4,3,1
+male,D,some high school,1,0,3,3,3,0
+female,C,some high school,1,1,3,3,4,1
+male,A,some college,1,0,3,3,3,0
+female,A,some college,0,0,3,4,3,1
+female,D,high school,1,1,5,5,5,1
+female,C,high school,1,0,3,3,4,1
+female,C,some high school,1,0,4,4,4,1
+male,B,associate's degree,1,1,4,4,4,1
+female,B,associate's degree,1,0,5,4,4,1
+female,D,high school,0,1,3,3,3,0
+male,D,associate's degree,1,1,5,5,5,1
+female,D,master's degree,1,1,4,4,4,1
+male,E,some college,1,1,5,5,4,1
+male,D,associate's degree,1,0,4,4,3,1
+male,B,some high school,1,1,4,4,4,1
+female,C,bachelor's degree,0,1,3,4,4,1
+male,E,high school,1,0,5,4,4,1
+male,C,bachelor's degree,1,1,4,4,4,1
+male,C,associate's degree,1,0,4,4,4,1
+male,D,some college,1,0,4,3,4,1
+male,E,high school,0,1,3,3,3,0
+female,C,associate's degree,0,1,5,5,5,1
+female,D,high school,1,1,3,3,4,1
+female,D,master's degree,0,1,3,3,4,1
+female,A,some high school,1,1,3,5,4,1
+male,B,some college,0,0,3,2,2,0
+female,C,some college,0,0,4,4,4,1
+male,C,bachelor's degree,1,0,5,5,5,1
+male,C,some high school,0,0,4,4,4,1
+male,A,some high school,0,0,4,3,3,1
+male,C,some high school,0,0,4,4,3,1
+male,C,associate's degree,0,0,4,4,3,1
+female,C,high school,1,0,4,4,4,1
+male,C,high school,1,0,4,3,3,1
+female,A,some high school,0,0,3,3,3,0
+male,C,some high school,1,0,4,4,4,1
+male,C,some college,0,1,3,3,3,0
+male,D,associate's degree,1,0,4,4,4,1
+male,D,associate's degree,0,0,4,4,4,1
+male,C,high school,1,0,4,3,3,1
+male,D,some high school,1,1,5,5,5,1
+female,C,some college,1,1,4,5,4,1
+female,D,high school,1,0,4,5,4,1
+female,A,some high school,0,0,3,4,4,1
+female,B,associate's degree,1,0,4,5,4,1
+male,A,some high school,0,0,4,5,4,1
+female,C,some high school,1,1,4,4,4,1
+male,D,some college,0,0,4,4,3,1
+male,C,high school,1,1,5,5,4,1
+male,B,high school,1,0,3,3,3,0
+male,B,associate's degree,1,0,5,4,4,1
+female,C,some college,0,1,4,5,5,1
+female,E,some college,1,0,5,5,5,1
+female,C,associate's degree,0,0,4,4,4,1
+male,C,some college,0,0,4,3,3,1
+female,C,associate's degree,0,0,3,4,4,1
+male,C,bachelor's degree,0,0,2,3,3,0
+female,D,bachelor's degree,1,0,4,5,5,1
+male,D,associate's degree,0,0,3,3,3,0
+female,E,bachelor's degree,1,0,5,5,5,1
+male,B,high school,1,1,4,4,4,1
+male,C,bachelor's degree,0,0,3,3,3,0
+male,B,some college,0,0,3,3,3,0
+female,E,some college,1,0,4,4,4,1
+female,C,some college,0,0,4,5,5,1
+male,A,bachelor's degree,1,1,4,3,4,1
+female,C,some college,1,0,5,5,5,1
+female,D,associate's degree,0,0,2,2,2,0
+male,A,high school,0,1,4,4,4,1
+female,A,high school,0,1,4,5,5,1
+male,C,some college,1,0,5,4,4,1
+female,C,associate's degree,1,1,5,5,5,1
+female,C,high school,1,0,4,4,4,1
+female,C,associate's degree,1,1,4,5,5,1
+female,D,some high school,1,0,3,4,4,1
+female,B,associate's degree,1,1,5,5,5,1
+female,D,bachelor's degree,1,1,4,4,5,1
+male,E,bachelor's degree,1,1,4,4,4,1
+male,D,associate's degree,1,0,4,4,4,1
+female,D,master's degree,1,0,3,4,4,1
+male,E,associate's degree,1,0,4,4,4,1
+male,B,high school,1,1,4,4,4,1
+female,D,associate's degree,0,0,3,3,3,0
+male,C,some college,0,0,4,4,4,1
+male,A,high school,1,0,3,3,3,0
+female,B,associate's degree,1,0,3,3,3,0
+male,C,high school,1,0,4,4,4,1
+male,D,some college,0,0,4,3,3,1
+female,C,associate's degree,0,0,3,4,4,1
+male,B,some high school,1,1,4,3,3,1
+male,A,associate's degree,0,1,4,5,5,1
+female,A,associate's degree,0,0,4,5,4,1
+female,C,associate's degree,1,0,4,4,4,1
+female,C,some college,1,0,5,5,5,1
+female,C,bachelor's degree,1,0,5,5,5,1
+female,B,high school,1,0,3,4,4,1
+male,D,high school,1,1,4,4,4,1
+female,C,some college,1,0,3,3,3,0
+female,D,some college,0,1,3,4,4,1
+female,B,some high school,1,0,4,4,4,1
+male,E,some college,1,0,4,4,4,1
+female,D,master's degree,1,0,4,4,5,1
+female,B,associate's degree,1,1,5,5,5,1
+male,C,some college,0,0,4,4,3,1
+female,E,associate's degree,1,1,5,5,5,1
+female,D,master's degree,0,0,2,3,3,0
+female,B,some high school,1,0,5,5,4,1
+male,A,high school,1,0,4,4,4,1
+male,B,bachelor's degree,0,0,3,3,3,0
+male,C,master's degree,1,0,4,4,4,1
+female,C,bachelor's degree,1,0,5,5,5,1
+male,D,some college,1,0,4,4,4,1
+male,A,some high school,1,0,4,3,3,1
+male,D,some high school,0,0,4,3,3,1
+female,B,some high school,1,1,3,4,4,1
+female,B,master's degree,0,1,4,5,5,1
+female,C,some high school,1,1,4,5,5,1
+female,D,some college,1,0,4,5,5,1
+female,E,some college,1,1,4,4,4,1
+female,D,some high school,1,1,4,4,4,1
+female,B,high school,0,1,4,4,4,1
+male,D,some college,1,0,4,3,3,1
+female,C,associate's degree,1,0,5,5,5,1
+male,D,bachelor's degree,1,0,4,3,3,1
+male,C,master's degree,0,0,3,3,3,0
+male,C,high school,1,1,3,3,3,0
+male,E,some college,1,0,4,3,3,1
+male,C,some high school,0,1,3,4,3,1
+female,C,high school,0,0,2,3,3,0
+female,D,bachelor's degree,0,0,2,3,3,0
+female,C,associate's degree,1,0,4,4,4,1
+female,C,associate's degree,1,1,4,4,4,1
+female,C,some high school,1,0,3,3,3,0
+male,E,associate's degree,1,1,4,4,3,1
+female,E,associate's degree,1,1,4,5,5,1
+male,B,high school,1,1,4,4,4,1
+female,C,bachelor's degree,0,1,4,5,5,1
+male,C,associate's degree,1,1,3,3,3,0
+female,D,high school,1,0,3,4,4,1
+male,E,bachelor's degree,1,1,5,4,4,1
+male,A,associate's degree,1,1,5,5,5,1
+male,C,high school,1,1,4,4,4,1
+male,D,associate's degree,0,1,4,5,4,1
+female,C,associate's degree,1,0,5,4,4,1
+female,D,associate's degree,1,0,5,5,5,1
+female,D,master's degree,1,0,4,4,4,1
+male,E,some high school,0,1,4,5,4,1
+female,A,some high school,1,1,5,5,5,1
+male,C,high school,1,1,4,4,4,1
+female,C,high school,0,0,4,4,4,1
+male,C,master's degree,1,0,4,4,4,1
+male,C,some high school,0,0,4,4,4,1
+male,B,bachelor's degree,0,1,5,5,5,1
+female,B,associate's degree,1,0,2,3,3,0
+male,D,some college,0,0,4,4,4,1
+male,E,associate's degree,1,0,3,3,2,0
+female,C,some college,0,0,2,2,2,0
+female,C,associate's degree,1,1,3,4,4,1
+male,C,master's degree,0,0,4,4,4,1
+female,B,associate's degree,0,0,3,4,4,1
+male,D,some high school,1,0,4,4,4,1
+female,D,some college,1,1,4,4,4,1
+female,C,some college,1,0,4,4,4,1
+male,C,bachelor's degree,1,1,5,5,5,1
+female,D,some college,0,1,4,4,4,1
+male,B,bachelor's degree,0,0,3,3,3,0
+male,B,associate's degree,1,0,3,3,3,0
+female,E,bachelor's degree,0,1,5,5,5,1
+female,D,master's degree,0,1,4,4,4,1
+male,B,high school,0,0,4,3,3,1
+male,D,bachelor's degree,0,0,4,4,4,1
+male,B,some college,1,1,4,4,4,1
+male,A,bachelor's degree,1,0,5,5,5,1
+female,C,some college,1,0,3,4,3,1
+female,C,high school,0,1,3,4,4,1
+female,E,high school,1,0,4,5,4,1
+male,A,associate's degree,0,1,2,3,3,0
+male,A,some college,1,1,4,3,3,1
+female,B,high school,1,0,5,5,5,1
+female,B,some college,0,1,3,3,3,0
+female,D,master's degree,1,0,3,4,4,1
+female,D,some high school,1,0,5,5,5,1
+female,E,some high school,1,0,4,4,4,1
+female,D,bachelor's degree,0,0,4,4,4,1
+female,D,associate's degree,1,1,4,4,4,1
+female,D,some college,1,0,4,4,4,1
+female,C,associate's degree,1,0,4,4,4,1
+female,A,high school,1,0,3,4,4,1
+female,C,bachelor's degree,0,0,3,4,4,1
+female,C,some college,1,0,3,4,4,1
+female,A,some high school,1,0,3,4,4,1
+male,C,some college,0,0,3,3,3,0
+male,A,some high school,1,0,4,4,3,1
+male,E,bachelor's degree,1,0,4,4,4,1
+female,E,high school,1,0,4,4,4,1
+female,C,bachelor's degree,1,1,5,5,5,1
+female,C,bachelor's degree,1,1,3,4,4,1
+male,B,high school,0,0,2,2,1,0
+male,A,some high school,1,0,3,3,3,0
+female,D,high school,1,0,4,4,4,1
+female,D,some high school,1,0,4,5,5,1
+female,D,master's degree,1,0,3,3,4,1
+female,C,high school,1,0,2,2,2,0
+female,E,some college,1,0,4,4,4,1
+male,D,high school,0,0,3,3,3,0
+male,D,master's degree,0,1,5,5,5,1
+male,C,some high school,1,0,4,4,4,1
+female,C,associate's degree,1,0,5,5,5,1
+female,C,master's degree,0,0,2,3,3,0
+female,E,some college,1,0,4,4,4,1
+female,B,associate's degree,1,0,3,4,4,1
+male,D,some college,0,1,4,3,4,1
+female,C,some college,1,0,3,3,4,1
+male,C,bachelor's degree,1,1,5,5,5,1
+female,C,associate's degree,1,0,4,4,4,1
+female,A,associate's degree,1,0,5,5,5,1
+female,C,high school,1,0,3,4,4,1
+female,E,bachelor's degree,1,0,2,3,2,0
+male,D,bachelor's degree,1,0,5,4,5,1
+male,D,master's degree,1,0,5,5,5,1
+male,C,associate's degree,0,1,4,4,4,1
+female,C,high school,0,0,2,4,3,0
+male,B,bachelor's degree,0,0,4,4,3,1
+male,C,high school,0,1,3,3,3,0
+male,A,some college,1,1,5,5,5,1
+female,E,bachelor's degree,0,0,4,3,4,1
+male,D,some college,1,1,5,5,5,1
+male,B,associate's degree,0,1,4,4,4,1
+male,D,associate's degree,1,0,4,3,3,1
+male,D,some college,0,0,3,3,3,0
+female,C,some high school,1,1,3,3,3,0
+male,D,some college,1,0,4,4,4,1
+male,B,high school,1,0,4,3,4,1
+female,B,bachelor's degree,1,1,4,4,5,1
+female,C,high school,1,0,4,5,5,1
+male,D,some high school,1,0,5,5,4,1
+male,A,high school,1,0,4,4,4,1
+female,B,high school,0,1,4,4,5,1
+female,D,some high school,1,1,4,5,5,1
+male,E,some college,1,0,5,4,4,1
+female,D,associate's degree,1,0,4,4,4,1
+male,D,high school,1,0,3,3,3,0
+female,D,associate's degree,0,1,4,5,5,1
+female,B,some high school,0,0,4,5,4,1
+female,E,high school,1,1,4,4,4,1
+male,B,high school,1,0,4,4,3,1
+female,B,bachelor's degree,1,1,4,5,5,1
+female,D,associate's degree,1,0,3,4,4,1
+female,E,high school,0,0,4,4,4,1
+female,B,high school,1,0,3,3,3,0
+female,D,some college,1,1,4,4,5,1
+male,C,some high school,0,1,3,3,3,0
+female,A,high school,1,1,4,4,4,1
+female,D,some college,1,1,5,5,5,1
+female,A,associate's degree,1,1,4,4,4,1
+female,B,some high school,1,0,4,4,4,1
+female,B,some college,1,0,4,4,4,1
+male,C,associate's degree,0,0,4,4,4,1
+male,D,some high school,1,0,4,4,4,1
+female,D,associate's degree,0,0,3,3,3,0
+male,D,associate's degree,1,0,5,5,5,1
+male,C,some college,0,0,4,4,4,1
+male,C,some high school,1,0,4,4,4,1
+female,D,some college,0,0,3,4,4,1
+female,C,high school,1,0,4,4,4,1
+male,D,associate's degree,1,0,4,4,4,1
+female,C,some high school,0,1,3,3,3,0
+female,C,some college,0,1,4,4,4,1
+female,B,bachelor's degree,0,0,4,5,5,1
+male,C,some college,1,0,4,4,4,1
+male,D,associate's degree,1,1,5,4,4,1
+female,C,high school,0,0,4,4,4,1
+male,D,associate's degree,0,0,3,3,3,0
+female,C,some college,1,0,4,4,4,1
+female,C,associate's degree,1,1,4,5,5,1
+female,D,high school,1,1,4,4,4,1
+female,B,some college,1,1,3,4,4,1
+female,E,some college,1,1,4,4,4,1
+female,C,some high school,1,1,4,5,4,1
+male,D,associate's degree,0,0,5,4,4,1
+male,D,some college,0,0,4,4,3,1
+female,D,high school,1,0,4,4,4,1
+male,B,high school,1,0,3,4,3,1
+male,B,high school,1,0,4,3,3,1
+female,C,some high school,0,1,2,2,3,0
+male,B,some college,1,1,4,4,4,1
+female,E,master's degree,1,1,5,5,5,1
+male,E,some college,1,1,5,4,4,1
+male,D,associate's degree,0,0,4,4,4,1
+male,A,high school,0,0,3,3,3,0
+male,E,some college,0,0,5,5,5,1
+female,C,associate's degree,1,0,3,3,3,0
+female,E,associate's degree,0,0,4,4,4,1
+female,C,bachelor's degree,0,1,4,4,5,1
+female,D,associate's degree,1,0,4,4,4,1
+female,C,some high school,1,0,3,4,3,1
+female,D,some college,0,0,4,5,5,1
+female,C,associate's degree,1,1,4,5,5,1
+female,A,bachelor's degree,1,0,3,4,4,1
+female,D,associate's degree,1,1,3,4,4,1
+male,C,high school,0,0,4,4,3,1
+female,E,bachelor's degree,1,1,4,5,5,1
+female,B,some high school,1,0,3,4,4,1
+male,A,bachelor's degree,1,1,5,5,5,1
+female,D,some college,1,0,4,4,4,1
+female,B,some high school,0,1,3,4,4,1
+male,A,bachelor's degree,0,0,4,4,4,1
+male,D,high school,1,0,3,2,2,0
+male,C,some college,1,0,4,3,3,1
+male,D,high school,1,0,5,5,4,1
+female,D,associate's degree,0,1,3,4,3,1
+male,C,some college,1,1,5,5,5,1
+female,E,some high school,1,1,4,5,5,1
+female,D,some college,1,0,5,5,5,1
+male,D,master's degree,1,0,5,5,5,1
+female,B,some high school,1,1,3,4,4,1
+female,B,associate's degree,0,1,4,5,5,1
+male,C,associate's degree,1,1,4,4,4,1
+female,C,associate's degree,1,1,5,5,5,1
+female,C,high school,1,0,4,4,4,1
+male,E,associate's degree,0,1,5,4,4,1
+female,C,some college,0,0,4,4,4,1
+male,D,some high school,0,1,3,3,3,0
+female,B,some high school,0,1,4,5,5,1
+male,C,high school,1,0,3,3,3,0
+male,B,some college,1,0,3,3,3,0
+male,E,some college,1,1,5,4,4,1
+female,E,associate's degree,1,1,4,4,4,1
+male,E,some high school,1,1,4,3,3,1
+female,D,high school,0,0,4,5,5,1
+male,C,some college,1,0,3,2,2,0
+female,B,associate's degree,0,1,4,4,4,1
+male,A,some high school,0,0,3,3,3,0
+female,C,some college,1,1,5,5,5,1
+male,D,some high school,1,0,3,3,3,0
+female,E,some college,0,0,3,3,3,0
+male,C,master's degree,1,0,4,3,3,1
+male,C,associate's degree,1,0,5,4,5,1
+female,B,some college,0,1,3,4,4,1
+male,D,associate's degree,1,0,5,4,4,1
+male,C,high school,0,0,4,3,3,1
+male,D,bachelor's degree,1,0,4,4,4,1
+female,A,associate's degree,0,0,2,3,3,0
+female,C,high school,1,0,5,5,5,1
+female,C,associate's degree,1,1,3,4,4,1
+male,B,some college,0,0,3,3,3,0
+male,D,associate's degree,1,0,4,4,4,1
+male,D,high school,1,0,4,4,4,1
+male,C,some college,1,0,4,4,4,1
+female,C,bachelor's degree,0,0,3,3,3,0
+male,B,some college,1,1,5,5,5,1
+male,D,some high school,1,1,4,4,4,1
+male,E,some college,1,0,4,4,4,1
+male,C,master's degree,0,1,4,4,4,1
+female,C,some high school,1,1,4,5,5,1
+male,C,associate's degree,0,0,3,3,3,0
+female,E,associate's degree,1,0,5,5,5,1
+male,D,some college,1,0,3,3,3,0
+male,E,bachelor's degree,0,1,4,4,4,1
+female,D,some college,0,1,3,3,4,1
+male,B,some college,1,1,4,4,4,1
+female,C,high school,0,0,3,4,4,1
+female,D,some high school,1,0,3,3,3,0
+male,D,some high school,1,1,4,5,5,1
+female,B,high school,1,0,4,4,4,1
+male,D,some college,1,0,3,4,3,1
+female,B,high school,1,0,4,4,4,1
+female,C,high school,1,1,3,4,4,1
+male,B,high school,1,1,4,4,3,1
+female,D,some high school,1,0,4,4,4,1
+male,A,some college,0,0,3,3,3,0
+male,B,high school,1,0,3,3,3,0
+male,D,bachelor's degree,1,0,4,4,4,1
+female,B,some high school,0,1,3,4,4,1
+female,C,bachelor's degree,0,0,4,4,4,1
+male,B,some college,1,0,4,4,3,1
+female,B,some high school,0,0,3,3,3,0
+female,B,high school,1,0,4,4,4,1
+female,C,some college,0,0,2,3,3,0
+female,A,some college,1,1,4,4,5,1
+male,E,associate's degree,1,1,5,5,5,1
+female,D,associate's degree,0,0,3,3,3,0
+female,B,master's degree,1,0,4,5,5,1
+female,B,high school,0,1,4,5,5,1
+female,C,associate's degree,1,1,3,3,4,1
+male,C,bachelor's degree,1,1,5,5,4,1
+female,B,some high school,1,1,2,3,3,0
+female,E,some high school,0,0,4,4,4,1
+female,B,some college,1,0,1,2,2,0
+male,C,associate's degree,0,0,4,4,4,1
+female,C,master's degree,0,0,3,4,4,1
+female,B,high school,1,0,3,4,3,1
+female,D,some college,0,0,3,4,4,1
+male,D,high school,0,0,4,4,4,1
+male,E,some high school,1,1,5,5,4,1
+female,B,high school,1,0,3,3,3,0
+female,E,associate's degree,0,1,3,4,4,1
+male,D,high school,1,0,4,4,4,1
+female,E,associate's degree,0,0,4,5,5,1
+male,E,some college,1,0,4,3,3,1
+female,C,associate's degree,1,0,3,3,3,0
+male,C,some high school,1,1,4,4,4,1
+male,C,some high school,1,1,4,4,4,1
+female,E,associate's degree,1,0,5,5,5,1
+female,B,some college,1,0,5,5,5,1
+female,C,some college,1,0,4,4,4,1
+male,A,some college,0,0,4,5,4,1
+female,D,some college,0,0,4,4,4,1
+female,E,high school,0,0,3,3,2,0
+male,C,high school,1,0,5,4,4,1
+male,B,bachelor's degree,1,0,3,3,3,0
+male,A,some high school,1,0,3,2,2,0
+male,A,high school,0,0,3,3,3,0
+female,C,master's degree,1,1,3,4,4,1
+male,E,some high school,1,1,5,5,4,1
+female,C,high school,1,0,4,4,5,1
+male,B,some high school,1,1,5,5,5,1
+female,A,bachelor's degree,1,0,3,3,4,1
+male,D,bachelor's degree,0,1,4,4,4,1
+female,B,high school,0,0,3,4,4,1
+female,C,some high school,1,0,4,5,5,1
+female,A,some high school,1,1,5,5,5,1
+female,D,bachelor's degree,0,0,4,5,5,1
+male,E,some college,0,1,3,3,3,0
+female,B,high school,0,0,4,5,5,1
+female,C,some high school,0,0,3,3,3,0
+male,C,high school,1,0,4,4,3,1
+female,C,associate's degree,0,1,3,4,4,1
+female,C,some high school,1,0,4,4,4,1
+female,D,some high school,0,1,4,5,5,1
+male,B,some high school,1,0,4,3,3,1
+female,A,some college,0,0,4,3,3,1
+female,C,bachelor's degree,0,1,4,5,5,1
+male,A,bachelor's degree,1,0,4,3,3,1
+female,B,high school,1,1,4,5,5,1
+male,B,some college,1,0,3,3,3,0
+female,C,high school,1,1,3,4,4,1
+male,E,high school,1,0,4,4,3,1
+female,A,high school,1,1,4,5,4,1
+male,B,associate's degree,0,1,3,3,3,0
+female,C,associate's degree,1,0,4,4,4,1
+female,D,high school,0,0,2,3,3,0
+male,C,some high school,1,0,4,3,3,1
+female,B,high school,0,1,2,3,2,0
+male,B,some college,0,1,4,4,4,1
+female,D,some high school,0,1,2,4,4,1
+male,E,master's degree,1,0,5,5,5,1
+male,C,master's degree,1,1,5,5,5,1
+male,D,high school,1,0,4,3,3,1
+female,C,high school,1,0,3,4,4,1
+male,D,associate's degree,1,0,4,4,4,1
+male,C,master's degree,1,0,4,4,4,1
+female,A,high school,1,0,4,4,4,1
+female,E,some college,1,0,5,5,5,1
+male,E,some high school,1,0,5,4,4,1
+male,C,some high school,1,0,4,4,3,1
+female,B,bachelor's degree,1,0,5,5,5,1
+male,B,some college,0,0,4,4,4,1
+female,C,bachelor's degree,1,0,4,4,5,1
+male,B,high school,1,1,3,3,3,0
+male,C,associate's degree,0,0,5,4,4,1
+female,C,associate's degree,1,0,3,4,3,1
+female,E,master's degree,0,0,5,5,5,1
+male,D,bachelor's degree,0,1,2,3,2,0
+female,C,some college,1,1,4,4,4,1
+male,C,associate's degree,1,0,5,5,5,1
+male,D,some college,1,1,5,5,5,1
+male,C,high school,0,0,3,3,3,0
+male,B,associate's degree,1,0,4,3,3,1
+male,E,associate's degree,0,1,4,4,4,1
+male,C,associate's degree,0,0,3,3,3,0
+male,B,high school,1,0,3,3,3,0
+female,C,some college,1,1,4,4,4,1
+male,B,associate's degree,1,1,5,5,4,1
+male,E,associate's degree,0,0,5,5,5,1
+female,C,bachelor's degree,0,0,3,4,4,1
+male,C,some college,0,0,4,4,4,1
+male,D,some college,1,0,5,5,5,1
+male,C,some high school,1,0,3,4,3,1
+female,D,some high school,1,0,3,4,4,1
+female,D,associate's degree,1,0,4,4,4,1
+male,C,bachelor's degree,1,1,4,4,4,1
+female,E,bachelor's degree,1,1,4,4,4,1
+female,B,high school,0,0,4,4,4,1
+male,D,bachelor's degree,0,0,3,3,3,0
+female,E,associate's degree,1,0,3,3,3,0
+female,C,associate's degree,1,1,4,4,4,1
+female,E,associate's degree,1,1,5,5,5,1
+male,C,high school,0,0,3,4,3,1
+female,D,some college,0,0,4,4,4,1
+male,D,high school,0,0,3,3,3,0
+female,E,some college,1,1,5,5,5,1
+female,E,associate's degree,1,0,5,5,5,1
+female,A,master's degree,0,0,3,4,4,1
+male,D,some high school,1,1,5,4,4,1
+female,E,associate's degree,1,0,3,4,4,1
+female,E,some high school,0,0,2,2,2,0
+male,B,high school,0,0,2,2,2,0
+female,B,some high school,0,1,4,4,4,1
+male,D,associate's degree,1,1,4,3,4,1
+female,D,some high school,1,1,4,4,5,1
+male,D,master's degree,1,0,5,5,5,1
+female,C,master's degree,1,0,4,4,4,1
+female,A,high school,0,1,2,3,3,0
+female,D,bachelor's degree,0,1,5,5,5,1
+female,D,some high school,0,0,4,5,5,1
+male,D,some college,1,0,5,4,4,1
+male,B,high school,1,0,3,3,3,0
+female,D,some college,1,1,4,5,5,1
+female,C,bachelor's degree,0,0,4,4,4,1
+male,E,bachelor's degree,1,1,4,4,4,1
+male,D,bachelor's degree,0,0,3,3,3,0
+female,A,some college,1,0,4,5,5,1
+female,C,bachelor's degree,1,1,3,4,4,1
+female,C,bachelor's degree,0,1,3,4,4,1
+female,B,associate's degree,0,0,3,4,3,1
+female,E,some college,1,0,4,4,4,1
+male,E,bachelor's degree,1,1,5,5,5,1
+female,C,high school,1,0,3,4,3,1
+female,C,associate's degree,1,1,3,4,4,1
+male,B,some college,1,1,5,5,5,1
+male,D,high school,0,0,4,4,4,1
+female,C,high school,0,0,2,3,3,0
+male,D,high school,1,0,4,4,4,1
+female,B,associate's degree,0,0,3,4,4,1
+male,D,high school,0,0,4,4,4,1
+male,E,some high school,1,1,4,4,3,1
+male,E,associate's degree,0,0,4,3,3,1
+female,D,high school,0,1,4,4,4,1
+male,E,associate's degree,0,1,3,3,3,0
+female,C,some high school,0,0,3,3,3,0
+male,C,some college,0,1,4,4,4,1
+male,D,some college,0,0,4,3,4,1
+male,D,associate's degree,0,1,4,4,4,1
+male,C,bachelor's degree,0,1,4,4,4,1
+male,C,associate's degree,1,1,5,5,5,1
+male,D,some college,0,0,4,4,3,1
+male,A,associate's degree,1,0,4,3,3,1
+female,E,high school,0,0,3,3,3,0
+male,D,some college,1,1,5,5,5,1
+male,D,some high school,1,1,4,4,4,1
+male,C,master's degree,0,1,4,4,4,1
+female,D,master's degree,1,0,4,5,5,1
+male,C,high school,1,0,5,4,4,1
+male,A,some high school,0,1,4,4,4,1
+female,B,high school,1,0,3,4,4,1
+female,C,associate's degree,1,0,3,4,3,1
+male,B,high school,1,0,5,5,4,1
+female,D,some college,0,0,3,3,3,0
+male,B,some high school,0,1,3,3,3,0
+female,E,high school,0,1,3,4,4,1
+male,E,high school,1,0,5,4,4,1
+female,D,some college,1,1,4,4,5,1
+female,E,some high school,0,0,4,4,4,1
+male,C,high school,1,1,3,3,3,0
+female,C,some college,1,0,4,4,4,1
+male,E,associate's degree,1,0,4,3,4,1
+male,C,some college,1,0,5,5,5,1
+female,D,master's degree,1,0,5,5,5,1
+female,D,high school,1,0,3,4,3,1
+male,C,high school,1,0,4,5,4,1
+female,A,some college,1,0,3,3,4,1
+female,D,some high school,0,0,3,3,3,0
+female,E,associate's degree,1,0,5,5,5,1
+female,C,some high school,0,1,4,4,4,1
+male,D,some college,1,0,4,3,3,1
+female,D,some college,1,0,4,4,4,1
+male,A,some high school,1,1,4,4,4,1
+male,C,some college,1,0,4,4,3,1
+female,E,associate's degree,1,0,4,4,4,1
+female,B,bachelor's degree,1,0,4,5,4,1
+female,D,bachelor's degree,1,0,5,5,5,1
+male,C,some high school,1,1,4,4,4,1
+female,A,high school,0,1,3,3,3,0
+female,D,some college,0,0,3,4,4,1
+female,A,some college,1,0,3,4,4,1
+female,C,some college,1,1,4,5,4,1
+male,B,some college,0,1,3,4,3,1
+male,C,associate's degree,1,0,4,4,3,1
+male,D,high school,1,1,3,3,3,0
+female,C,associate's degree,1,0,5,5,5,1
+female,B,high school,0,0,1,2,2,0
+male,D,some high school,1,0,5,4,4,1
+male,B,some high school,1,1,4,5,5,1
+female,A,some college,1,1,4,5,5,1
+female,C,some high school,1,0,4,4,5,1
+male,A,high school,1,0,3,3,3,0
+female,C,associate's degree,1,0,2,3,3,0
+male,E,some high school,1,1,5,4,4,1
+female,A,some high school,0,0,3,3,3,0
+female,D,some college,0,1,4,5,5,1
+male,E,high school,0,1,5,5,4,1
+female,B,some high school,1,1,4,5,4,1
+female,D,associate's degree,0,0,3,4,4,1
+female,D,bachelor's degree,0,0,4,4,4,1
+male,A,high school,1,0,4,4,4,1
+female,E,master's degree,1,1,5,5,5,1
+male,C,high school,0,0,4,3,3,1
+female,C,high school,0,1,3,4,4,1
+female,D,some college,1,1,4,4,4,1
+female,D,some college,0,0,4,5,5,1

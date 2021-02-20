@@ -1,0 +1,10 @@
+version: "3"
+services:
+  streamlit:
+    build: .
+    restart: always
+    command: "streamlit run main.py"
+    ports:
+      - "80:8501"
+    volumes:
+      - "./src:/usr/src/app/src"
