@@ -1,0 +1,94 @@
+version: '3'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: digitalocean.com/php
+    depends_on:
+      - "db"
+      # - "mailhog"
+    container_name: app
+    restart: unless-stopped
+    tty: true
+    environment:
+      SERVICE_NAME: app
+      SERVICE_TAGS: dev
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www
+      - ./php/local.ini:/usr/local/etc/php/conf.d/local.ini
+    networks:
+      - app-network
+
+  webserver:
+    image: nginx:alpine
+    #image: staticfloat/nginx-certbot
+    container_name: webserver
+    restart: unless-stopped
+    tty: true
+    # depends_on:
+    #   - "mailhog"
+    ports:
+      - "80:80"
+      - "443:443"
+      - "8080:8080"
+    environment:
+      CERTBOT_EMAIL: aeronavigatcia@yandex.ru
+    volumes:
+      - ./:/var/www
+      # - ./nginx/conf.d/:/etc/nginx/user.conf.d:ro
+      - ./nginx/conf.d/:/etc/nginx/conf.d:ro
+      - letsencrypt:/etc/letsencrypt
+    networks:
+      - app-network
+
+  db:
+    image: mysql
+    container_name: db
+    command: --default-authentication-plugin=mysql_native_password
+    restart: unless-stopped
+    tty: true
+    ports: 
+      - 3306:3306
+    volumes:
+      - mysql_data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: eiv8uu4eiR5r
+      MYSQL_DATABASE: laravel
+    networks:
+      - app-network
+
+  nextjs:
+    container_name: nextjs
+    build:
+      context: .
+      dockerfile: DockerfileNext
+    volumes:
+       - ./aero_git_final:/usr/src/app/aero_git_final
+       - /usr/src/app/aero_git_final/node_modules
+       - /usr/src/app/aero_git_final/.next
+    depends_on:
+      - "app"
+    networks:
+      - app-network
+
+  # mailhog:
+  #   image: mailhog/mailhog
+  #   logging:
+  #     driver: 'none'  # disable saving logs
+  #   ports:
+  #     - 8025:8025 # web ui
+  #   networks:
+  #     - app-network
+
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  mysql_data:
+    driver: local
+  # letsencrypt:
+  #   driver: local
